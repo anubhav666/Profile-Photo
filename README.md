@@ -1,2 +1,2 @@
 # Profile-Photo
-Profile-pic
+This is my profile photo!
